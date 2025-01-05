@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # sim-practical
-=======
+
 # Microservices Architecture Overview #
 
 This project follows a modular microservices design where different services are encapsulated within a single
