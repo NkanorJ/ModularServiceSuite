@@ -1,0 +1,3 @@
+echo $(date +%Y%m%d%H%M%S)
+#run chmod +x date to make file executable
+#run ./date to generate date in terminal
